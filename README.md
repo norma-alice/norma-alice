@@ -1,5 +1,9 @@
 ## Hi there 👋
-Meu nome é Norma
+Meu nome é Norma.
+Sou licenciada em Matemática e doutora Engenharia de Produção. 
+Tenho experiência na área educacional. Já atuei como docente no Ensino Básico, Técnico e Superior. Atualmente, atuo como analista de dados educacionais. 
+Elaboro documentações técnicas, avalio integridade de dados, gerencio processos e articulo sobre a implementação/execução de avaliações em larga escala com diversos Stakeholders da área educacional (Governo, Secretarias Estaduais, Técnicos).
+
 
 <!--
 **norma-alice/norma-alice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
